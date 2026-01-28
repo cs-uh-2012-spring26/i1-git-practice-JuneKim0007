@@ -1,6 +1,10 @@
-# Exercise 1 
+# Assignment 1
 
-[Medium.](https://medium.com/@bressan/mastering-python-a-few-techniques-for-optimizing-your-applications-56ab95612bb8)
+## SOFTWARE ARTICLE
+
+The link: [Medium.](https://medium.com/@bressan/mastering-python-a-few-techniques-for-optimizing-your-applications-56ab95612bb8)
+
+
 This article is interesting to me because it shows some common but overlooked techniques that could enhance efficiency. Also, certain Python built-in APIs like `profiling` are  useful to get a detailed report on how function performs.
 
 The article shows that not only high-level optimization but also low-level such as LRU caching for better access to a function for Cpu.
