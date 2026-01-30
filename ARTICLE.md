@@ -16,3 +16,5 @@ Or Numpy which converts code into C for better performances. Overall, I think it
 ## Comment
 ### Jaehyeon Kim (jk7404)
 Profiling and Multithreading are new concepts to me, can't wait to learn more!
+Daewoong: Great article!
+
