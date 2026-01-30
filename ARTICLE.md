@@ -14,5 +14,5 @@ Or Numpy which converts code into C for better performances. Overal l, I think i
 "Article checked for typos"
 
 ## Comment
-
+Daewoong: Great article!
 
